@@ -1,0 +1,8 @@
+C:\Users\Zorg\Documents\Visual Studio 2010\Projects\GT-LIB-Converter\GT-LIB-Converter\obj\x86\Debug\GT_LIB_Converter.Form1.resources
+C:\Users\Zorg\Documents\Visual Studio 2010\Projects\GT-LIB-Converter\GT-LIB-Converter\obj\x86\Debug\GT_LIB_Converter.Properties.Resources.resources
+C:\Users\Zorg\Documents\Visual Studio 2010\Projects\GT-LIB-Converter\GT-LIB-Converter\obj\x86\Debug\GT-LIB-Converter.csproj.GenerateResource.Cache
+C:\Users\Zorg\Documents\Visual Studio 2010\Projects\GT-LIB-Converter\GT-LIB-Converter\bin\Debug\GT-LIB-Converter.exe
+C:\Users\Zorg\Documents\Visual Studio 2010\Projects\GT-LIB-Converter\GT-LIB-Converter\bin\Debug\GT-LIB-Converter.pdb
+C:\Users\Zorg\Documents\Visual Studio 2010\Projects\GT-LIB-Converter\GT-LIB-Converter\obj\x86\Debug\GT-LIB-Converter.exe
+C:\Users\Zorg\Documents\Visual Studio 2010\Projects\GT-LIB-Converter\GT-LIB-Converter\obj\x86\Debug\GT-LIB-Converter.pdb
+C:\Users\Zorg\Documents\Visual Studio 2010\Projects\GT-LIB-Converter\GT-LIB-Converter\obj\x86\Debug\GT-LIB-Converter.csprojResolveAssemblyReference.cache
